@@ -27,5 +27,6 @@ My mouse is not that bad, but my felt that it was heavy and actually when I take
 
 <img width="1070" height="725" alt="2026-06-29-114401_hyprshot" src="https://github.com/user-attachments/assets/5ea6d65a-4c13-4b82-800b-b2585e568815" />
 
-<img width="812" height="621" alt="2026-05-31-174938_hyprshot" src="https://github.com/user-attachments/assets/b2d585ce-dded-4fd4-bd2f-4e24f66730d8" />
+<img width="1540" height="825" alt="image" src="https://github.com/user-attachments/assets/96556a01-ad36-40e1-b7b4-bd93f0748c1f" />
+
 
