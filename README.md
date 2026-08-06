@@ -29,4 +29,24 @@ My mouse is not that bad, but my felt that it was heavy and actually when I take
 
 <img width="1540" height="825" alt="image" src="https://github.com/user-attachments/assets/96556a01-ad36-40e1-b7b4-bd93f0748c1f" />
 
-
+| Name | Purpose | Qty | Total (USD) | Distributor | Link |
+| --- | --- | --- | --- | --- | --- |
+| TTC Mouse Encoder (Silver Core, 8mm) | Scroll wheel scroll detection | 1 | 6.58 | AliExpress | [Link](https://www.aliexpress.com/item/1005006514957582.html) |
+| Seeed Studio XIAO BLE nRF52840 | Main microcontroller and wireless chip for the mouse | 1 | 13.03 | AliExpress | [Link](https://www.aliexpress.com/item/1005006988954136.html) |
+| 3.7V 400mAh LiPo Battery | Wireless power source for the mouse | 1 | 4.88 | AliExpress | [Link](https://www.aliexpress.com/item/1005007103616809.html) |
+| Kailh GM 8.0 Micro Switch (2pcs) | Main left and right click switches | 1 | 1.47 | AliExpress | [Link](https://www.aliexpress.com/item/1005007883133457.html) |
+| Kailh GM 8.0 Micro Switch (3pcs) | Side buttons and a extra switch | 1 | 1.94 | AliExpress | [Link](https://www.aliexpress.com/item/1005007883133457.html) |
+| PixArt PAW3395 Sensor + LM19-LSI Lens Kit | High-performance optical tracking sensor and matching lens | 1 | 11.97 | AliExpress | [Link](https://www.aliexpress.com/item/1005006293449301.html) |
+| Custom Main Mouse PCB (gerber drill files_Y7) | Main board hosting the MCU and switches (White Solder Mask) | 5 | 4.0 | JLCPCB | [Link](https://jlcpcb.com) |
+| Custom Sensor breakout PCB (gerbers_Y6) | Breakout board for the PAW3395 sensor (White Solder Mask) | 5 | 2.1 | JLCPCB | [Link](https://jlcpcb.com) |
+| C96446 (10uF ±20% 25V Ceramic Capacitor) | Decoupling/Filter Capacitor | 20 | 1.29 | LCSC | [Link](https://www.lcsc.com) |
+| C30197477 (TLV74318PDBVR-MS Linear Voltage Regulator IC) | 1.8V Voltage Regulator for Sensor Power Rail | 5 | 0.46 | LCSC | [Link](https://www.lcsc.com) |
+| C86295 (22uF ±20% 10V Ceramic Capacitor) | Decoupling/Filter Capacitor | 10 | 0.78 | LCSC | [Link](https://www.lcsc.com) |
+| C4241878 (MCT0603MD2004BP500 2MΩ Thin Film Resistor) | Pull-up/Pull-down Resistor | 5 | 0.43 | LCSC | [Link](https://www.lcsc.com) |
+| C313771 (CRCW06034R70FKEAHP 4.7Ω Thick Film Resistor) | Current Limiting / Filter Resistor | 5 | 0.52 | LCSC | [Link](https://www.lcsc.com) |
+| C51412 (CL10A335KP8NNNC 3.3uF ±10% 10V Ceramic Capacitor) | Decoupling/Filter Capacitor | 10 | 0.31 | LCSC | [Link](https://www.lcsc.com) |
+| C161117 (GCJ188R72A104KA01D 100nF ±10% 100V Ceramic Capacitor) | Decoupling/Filter Capacitor | 20 | 0.87 | LCSC | [Link](https://www.lcsc.com) |
+| C92759 (EMK107B7105KA-T 1uF ±10% 16V Ceramic Capacitor X7R) | Decoupling/Filter Capacitor | 20 | 0.65 | LCSC | [Link](https://www.lcsc.com) |
+| C394535 (PTFR0603B10K0N9 10kΩ 100V Thin Film Resistor) | Pull-up/Pull-down Resistor | 5 | 0.77 | LCSC | [Link](https://www.lcsc.com) |
+| total without shipping and taxes |  |  | 52.05 |  |  |
+| total with shipping and taxes |  |  | 85.43 |  |  |
